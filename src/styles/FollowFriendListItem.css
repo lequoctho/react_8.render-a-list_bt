@@ -1,0 +1,30 @@
+.recommended-friends-content {
+  display: flex;
+  margin: 15px;
+}
+
+.recommended-friends-content-left {
+  flex-basis: 60px;
+}
+
+.recommended-friends-content-left img{
+  border-radius: 50%;
+  height: 59px;
+}
+
+.recommended-friends-content-center {
+  flex-basis: 85px;
+  flex-grow: 1;
+}
+
+.recommended-friends-content-center .name{
+  margin: 3px;
+}
+
+.recommended-friends-content-center .suggest{
+  margin: 0px;
+}
+
+.recommended-friends-content-left {
+  flex-basis: 60px;
+}
