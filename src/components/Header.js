@@ -14,9 +14,10 @@ class Header extends Component {
                   </div> 
                   <div class="recommended-friends-content">
                     <div class="recommended-friends-content-left">
-                      <p>Gợi ý cho bạn</p>
+                      <img src="https://cdn.hyperdev.com/drag-in-files.svg?v=1477153069954"/>
                     </div>
                     <div class="recommended-friends-content-center">
+                      <p>Phong0809</p>
                       <p>Gợi ý cho bạn</p>
                     </div>
                     <div class="recommended-friends-content-right">

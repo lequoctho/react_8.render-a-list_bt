@@ -6,6 +6,23 @@
 
 .recommended-friends-content {
   display: flex;
-  justify-content: space-between;
   margin: 15px;
+}
+
+.recommended-friends-content-left {
+  flex-basis: 60px;
+}
+
+.recommended-friends-content-left img{
+  border-radius: 50%;
+  height: 59px;
+}
+
+.recommended-friends-content-center {
+  flex-basis: 85px;
+  flex-grow: 1;
+}
+
+.recommended-friends-content-left {
+  flex-basis: 60px;
 }
