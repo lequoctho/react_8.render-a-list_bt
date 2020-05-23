@@ -6,7 +6,7 @@ class LoginForm extends Component {
         return <div class="login-form">
                   <h2>Sign in</h2>
                   <div class="login-form-input">
-                    <input type="text" placeholder="Username"/>
+                    <input type="text" placeholder={this.props.email}/>
                     <br/>
                     <input type="password" placeholder="Password"/>
                     <br/>

@@ -9,7 +9,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header/>
-        <LoginForm/>
+        <LoginForm email="abc@example.com"/>
       </div>
     );
   }
