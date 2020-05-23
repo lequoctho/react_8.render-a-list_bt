@@ -1,16 +1,11 @@
-.header {
+.recommended-friends-header {
   display: flex;
   justify-content: space-between;
+  margin: 15px;
 }
 
-.header-left {
-  
-}
-
-.header-center {
-  
-}
-
-.header-right {
-  margin-top: 15px;
+.recommended-friends-content {
+  display: flex;
+  justify-content: space-between;
+  margin: 15px;
 }
